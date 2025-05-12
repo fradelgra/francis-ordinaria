@@ -1,0 +1,128 @@
+.titulo a{
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: blueviolet;
+    color: orange;
+}
+
+.fondo{
+    background-color: lightgoldenrodyellow;
+}
+
+.div1{
+    position: relative;
+    width: 1590px;
+    top: auto;
+    height: 200px;
+    background-color: pink;
+}
+
+.div2{
+    position: relative;
+    width: 1590px;
+    top: 30px;
+    height: 200px;
+    background-color: grey;
+}
+
+.div3{
+    position: relative;
+    width: 1590px;
+    top: 60px;
+    height: 200px;
+    background-color: lightskyblue;
+}
+
+.div4{
+    position: relative;
+    width: 1590px;
+    top: 60px;
+    height: 55px;
+    background-color: yellow;
+}
+
+.smr1{
+    position: relative;
+    left: 225px;
+    top: -135px;
+}
+
+.smr2{
+    position: relative;
+    width: auto;
+    height: auto;
+    left: 190px;
+    top: 30px;
+}
+
+.dam1{
+    position: relative;
+    left: 550px;
+    top: -140px;
+}
+
+.dam2{
+    position: relative;
+    width: auto;
+    height: auto;
+    left: 510px;
+    top: 30px;
+}
+
+.asir1{
+    position: relative;
+    left: 1000px;
+    top: -150px;
+}
+
+.asir2{
+    position: relative;
+    width: auto;
+    height: auto;
+    left: 960px;
+    top: 30px;
+}
+
+.pie{
+    text-align: center;
+}
+
+.pie2{
+    color: blue;
+}
+
+.nombre{
+    color: red;
+}
+
+.nombre2{
+    color: orange;
+}
+
+.apellido2{
+    color: orange;
+}
+
+.año2{
+    color: orange;
+}
+
+.h2{
+    color: blue;
+}
+
+.cabecera{
+    color: red;
+}
+
+.cuerpo{
+    color: red;
+}
+
+.tabla{
+    text-align: center;
+    margin-top: auto;
+    font-weight: bold;
+    border: 1px solid;
+    width: 800px;
+}
